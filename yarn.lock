@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@adiwajshing/baileys@^5.0.0":
+"@whiskeysockets/baileys@^5.0.0":
   version "5.0.0"
-  resolved "https://registry.yarnpkg.com/@adiwajshing/baileys/-/baileys-5.0.0.tgz#17a3e48dd67d0f684d09d55fb8fb931345803bb6"
+  resolved "https://registry.yarnpkg.com/@whiskeysockets/baileys/-/baileys-5.0.0.tgz#17a3e48dd67d0f684d09d55fb8fb931345803bb6"
   integrity sha512-AeNyYLfw1nhCwc7hDlMajU9Zr5DK4zmEO8rdrmxUR1qUbmhSKOL6IzwZpyvPjsXyHvl+oPMbp5k8+PX2p6RlJg==
   dependencies:
     "@hapi/boom" "^9.1.3"
