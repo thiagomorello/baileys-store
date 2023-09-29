@@ -30,7 +30,7 @@
     "prisma": "^5.3.1"
   },
   "peerDependencies": {
-    "@whiskeysockets/baileys": "^5.0.0",
+    "@whiskeysockets/baileys": "^6.5.0",
     "@prisma/client": "^5.3.1"
   },
   "files": [
